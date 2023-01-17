@@ -1,3 +1,4 @@
+# # Exo_13
 user = "jean.dupont."
 email_end = "@email.fr"
 myTab = Array.new(50) {|i| 0} 

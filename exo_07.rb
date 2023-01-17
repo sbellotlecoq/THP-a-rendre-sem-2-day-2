@@ -1,4 +1,4 @@
-# Écris un programme exo_07.rb qui demande un nombre à l'utilisateur, puis qui compte jusqu'à ce nombre.
+# Exo_07 - Écris un programme exo_07.rb qui demande un nombre à l'utilisateur, puis qui compte jusqu'à ce nombre.
 
 puts "Donne moi un nombre please"
 print ">"
